@@ -1,6 +1,7 @@
 # pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 # torch==2.0.1 
-# torchvision==0.15.2 
+# torchvision==0.15.2
+basicsr
 numpy
 opencv-python
 pillow
